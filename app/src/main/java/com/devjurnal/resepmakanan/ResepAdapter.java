@@ -15,9 +15,6 @@ import com.bumptech.glide.Glide;
 
 import java.util.ArrayList;
 
-/**
- * Created by Muzayyinul on 05/10/2017.
- */
 
 public class ResepAdapter extends RecyclerView.Adapter<ResepAdapter.MyViewHolder> {
     private static final String TAG = "ResepAdapter";
